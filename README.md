@@ -1,0 +1,2 @@
+# terralogy
+AI BASED LAND DETECTOR
